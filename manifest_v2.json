@@ -1,0 +1,26 @@
+{
+  "item": {
+    "id": "com.vela.brightness",
+    "restype": "quick_app",
+    "name": "亮度调节",
+    "description": "一键调手环/手表屏幕亮度：最暗 / 最亮 / ±25 微调，另有 25% / 50% / 75% 档位快捷切换。实时显示当前亮度值（0~255）与手动/自动模式，页面打开时不息屏，调完即见效果。晚上看手环刺眼、白天看不清？点两下就行。",
+    "preview": [
+      "preview.png"
+    ],
+    "icon": "icon.png",
+    "cover": "preview.png",
+    "author": [
+      {
+        "name": "w2517",
+        "author_url": "https://github.com/w2517"
+      }
+    ]
+  },
+  "links": [],
+  "downloads": {
+    "xmb10nfc": {
+      "version": "1.0.2",
+      "file_name": "com.vela.brightness.debug.1.0.2.rpk"
+    }
+  }
+}
